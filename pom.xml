@@ -53,7 +53,7 @@
 
 	<scm>
 		<developerConnection>
-
+			scm:git:https://github.com/rkc98/Spring_PetClinic.git
 		</developerConnection>
 	</scm>
 
